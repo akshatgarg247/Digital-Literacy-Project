@@ -8,4 +8,4 @@ It also has a HackerRank Certification for "Python(Basic)" attached.
 
 Below is the link for Digital Literacy Awareness Quiz:
 
-[Digital Literacy Awareness Quiz](https://docs.google.com/forms/...)
+[Digital Literacy Awareness Quiz](https://docs.google.com/forms/d/e/1FAIpQLSeJwDlkKx8ShqRSUxJJ-_DQVOsHjp5vClbfmpjiVDQZUKHu7A/viewform?usp=dialog)
