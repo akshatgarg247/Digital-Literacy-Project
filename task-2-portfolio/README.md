@@ -2,6 +2,8 @@ Task 2 – Student Digital Portfolio
 
 In this task, professional profiles were created on different platforms to build an online presence.
 
+Special Repository named after my username: https://github.com/akshatgarg247/Akshat-Garg
+
 GitHub Profile: https://github.com/akshatgarg247
 
 LinkedIn Profile: https://www.linkedin.com/in/akshat-garg-248b45342/
