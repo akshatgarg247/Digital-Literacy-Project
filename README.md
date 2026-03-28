@@ -1,6 +1,9 @@
 # Project Overview
 
+This repository contains my Digital Literacy Portfolio created as part of the CSE0001 Digital Literacy course.
+The purpose of this project is to develop practical knowledge of digital tools, online platforms, professional communication, and cyber safety.
 
+All tasks are organized in separate folders with proper files and screenshots.
 
 
 
